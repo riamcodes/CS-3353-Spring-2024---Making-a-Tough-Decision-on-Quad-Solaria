@@ -1,5 +1,5 @@
 # CS-3353-Spring-2024---Making-a-Tough-Decision-on-Quad-Solaria
-A recursive algorithm project solving the majority voting problem on Quad-Solaria using two different methods with O(n log n) and O(n) complexities
+A recursive algorithm project solving the majority voting problem on Quad-Solaria using two different methods with O(n log n) and O(n) complexities.
 This repository contains two recursive algorithm implementations designed to determine whether a particular object appears in more than half of a vector of objects, based on a voting system from the fictional planet Quad-Solaria. The algorithms leverage recursion and divide-and-conquer strategies to solve the problem efficiently.
 
 Features
